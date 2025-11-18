@@ -77,3 +77,5 @@ https://www.kaggle.com/code/dmitryvolovikov/fork-of-rag-everything-834e09
 
 
 
+
+https://github.com/TUT-NICHEGO-NET/templates
